@@ -1,4 +1,4 @@
-# Spred blop
+# Spred blog
 
 ## Deploy
  This blog needs ruby > 2.3.0 and bundler to run. Once you have ruby installed just clone this repository, install dependencies and run:
